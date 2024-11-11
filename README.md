@@ -21,7 +21,7 @@ Before running the application, ensure you have the following tools installed:
 ```bash
 git clone https://github.com/mahesheu/angular18-basic-app-jwt.git
 cd angular18-basic-app-jwt
-
+```
 
 
 ### Key Points:
